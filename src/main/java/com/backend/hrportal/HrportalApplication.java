@@ -1,0 +1,15 @@
+package com.backend.hrportal;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.web.bind.annotation.RestController;
+
+
+@SpringBootApplication
+public class HrportalApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HrportalApplication.class, args);
+	}
+
+}
