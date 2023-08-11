@@ -1,4 +1,4 @@
-package com.backend.hrportal.model;
+package com.backend.hrportal.entity;
 
 import jakarta.persistence.*;
 
